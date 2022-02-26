@@ -1,0 +1,60 @@
+.bg1{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("../../assets/9c6e69bdcc0af90afd12a3d4d07bd03e.png");
+  
+  }
+  .bg10{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/2c8f2026bc0ec9ef7476.png");
+    transform: scaleX(-1);
+  }
+  .bg10 > div{
+    transform: scaleX(-1);
+  }
+  .bg2{
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    background-image: url("../../assets/Image207.png");
+  
+  }
+  .bg3{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/2c8f2026bc0ec9ef7476.png");
+  
+  }
+  .bg4{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/a25a872ac4a2772c8d15.png");
+  }
+  .bg5{
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/19699f26c1342442cfe7.png");
+  
+  }
+  .bg6{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/e8e70c79f52a0274bcf3.png");
+  
+  }
+  .bg7{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/c3ee701a3598a110031d.png");
+  }
+  .bg8{
+    background-repeat: no-repeat, repeat;
+    background-size: 100%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/8da8f47f7c88a0a5dfebb50f6b592aa7.png");
+    
+  }
+  .bg9{
+    background-repeat: no-repeat, repeat;
+    background-size: 95%;
+    background-image: url("http://9cdn-imgstorage.imersive.space/app/8da8f47f7c88a0a5dfebb50f6b592aa7.png");
+  }
